@@ -1,3 +1,9 @@
+# NAME: Direct-Domain
+# AUTHOR: HomeQi
+# REPO: https://github.com/HomeQi/domain-rules
+# 强制直连列表，来自个人收集
+
+# 常用站点直连规则
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,www.bing.com
 DOMAIN-SUFFIX,s.cn.bing.net
@@ -22,6 +28,7 @@ DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com
 DOMAIN-SUFFIX,download.fedoraproject.org
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,mozilla.org
+# 以下为PT站点直连规则
 DOMAIN,kp.m-team.cc
 DOMAIN,kp.m-team.io
 DOMAIN,tracker.m-team.io
@@ -102,4 +109,6 @@ DOMAIN,tracker.hdarea.club
 DOMAIN-SUFFIX,pt.cdfile.org
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,tosky.club
+# 自定义特殊直连规则
 DOMAIN-SUFFIX,106071.xyz
+DOMAIN-SUFFIX,github.homeqi.workers.dev
