@@ -108,3 +108,4 @@ bit.106071.xyz
 netcts.cdn-apple.com
 captive.apple.com
 www.agsvpt.com
+cyanbug.net
