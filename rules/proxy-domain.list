@@ -10,3 +10,11 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
+# Docker
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
