@@ -2,3 +2,5 @@ www.bing.com
 dl.google.com-del
 cache.nixos.org
 copilot.microsoft.com
+docker.com
+registry.hub.docker.com
