@@ -14,7 +14,6 @@ DOMAIN-KEYWORD,mirror
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -24,7 +23,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
 
 # 58
 DOMAIN-SUFFIX,58.com
@@ -322,7 +320,6 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
-
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
@@ -333,8 +330,6 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
-
-
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
@@ -579,7 +574,8 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 
-# 以下为PT站点直连规则
+
+# PT站点
 DOMAIN,kp.m-team.cc
 DOMAIN,kp.m-team.io
 DOMAIN,tracker.m-team.io
@@ -661,6 +657,10 @@ DOMAIN-SUFFIX,pt.cdfile.org
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-KEYWORD,hdkylin
 DOMAIN-SUFFIX,tosky.club
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,agsvpt.com
+
+
 # 自定义特殊直连规则
 DOMAIN-SUFFIX,106071.xyz
 DOMAIN-SUFFIX,alidns.com
