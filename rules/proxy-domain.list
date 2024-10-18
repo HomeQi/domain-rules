@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
 # mihomo
 DOMAIN-SUFFIX,metacubex.one
+# Google translate
+DOMAIN-SUFFIX,translate.google.com
+DOMAIN-SUFFIX,translate.googleapis.com
