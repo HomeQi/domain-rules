@@ -23,3 +23,5 @@ DOMAIN-SUFFIX,metacubex.one
 # Google translate
 DOMAIN-SUFFIX,translate.google.com
 DOMAIN-SUFFIX,translate.googleapis.com
+# 自定义常用
+DOMAIN-SUFFIX,bajie.pw
