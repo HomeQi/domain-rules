@@ -54,6 +54,20 @@ DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,watchanimeattheoffice.com
 
+# 自定义常用
+DOMAIN-SUFFIX,bajie.pw
+DOMAIN,cn.v2ex.com
+# DOMAIN-SUFFIX,invites.fun
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,nebula-media.org
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,avsox.click
+DOMAIN-SUFFIX,javdb521.com
+DOMAIN-SUFFIX,javday.app
+DOMAIN-SUFFIX,movie-pilot.org
+DOMAIN-SUFFIX,ffaoa.com
+DOMAIN-SUFFIX,z-library.sk
+
 # ==================== 元数据 / 刮削 ====================
 
 # TMDB
@@ -95,17 +109,11 @@ DOMAIN-SUFFIX,opensubtitles.org
 DOMAIN-SUFFIX,opensubtitles.com
 DOMAIN-SUFFIX,api.opensubtitles.com
 
-# 自定义常用
-DOMAIN-SUFFIX,bajie.pw
-DOMAIN,cn.v2ex.com
-# DOMAIN-SUFFIX,invites.fun
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,nebula-media.org
-DOMAIN-SUFFIX,fsm.name
-DOMAIN-SUFFIX,avsox.click
-DOMAIN-SUFFIX,javdb521.com
-DOMAIN-SUFFIX,javday.app
-DOMAIN-SUFFIX,movie-pilot.org
-DOMAIN-SUFFIX,ffaoa.com
-DOMAIN-SUFFIX,z-library.sk
+# ==================== Slack（通知 / Webhook） ====================
+
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,api.slack.com
+DOMAIN-SUFFIX,hooks.slack.com
+DOMAIN-SUFFIX,files.slack.com
+DOMAIN-SUFFIX,slack-edge.com
 
