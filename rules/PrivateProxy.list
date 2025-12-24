@@ -54,6 +54,36 @@ DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,watchanimeattheoffice.com
 
+# TMDB（核心，必需）
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,media.themoviedb.org
+
+# TVDB（电视剧元数据，部分插件使用）
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,api.thetvdb.com
+
+# Fanart（海报 / 背景图）
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,assets.fanart.tv
+
+# IMDb（评分 / 演员信息，部分刮削源）
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,m.imdb.com
+
+# ==================== 观影信息补充 ====================
+
+# Trakt（观看记录 / 推荐）
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,api.trakt.tv
+
+# OpenSubtitles（字幕）
+DOMAIN-SUFFIX,opensubtitles.org
+DOMAIN-SUFFIX,api.opensubtitles.com
+DOMAIN-SUFFIX,opensubtitles.com
+
 # 自定义常用
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN,cn.v2ex.com
