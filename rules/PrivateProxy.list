@@ -99,21 +99,20 @@ DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,assets.fanart.tv
 
 # ==================== 观影 / 记录 / 字幕 ====================
-
 # Trakt
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,api.trakt.tv
-
 # OpenSubtitles
 DOMAIN-SUFFIX,opensubtitles.org
 DOMAIN-SUFFIX,opensubtitles.com
 DOMAIN-SUFFIX,api.opensubtitles.com
-
 # ==================== Slack（通知 / Webhook） ====================
-
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,api.slack.com
 DOMAIN-SUFFIX,hooks.slack.com
 DOMAIN-SUFFIX,files.slack.com
 DOMAIN-SUFFIX,slack-edge.com
 
+# 自用
+DOMAIN-SUFFIX,146810.xyz
+DOMAIN-SUFFIX,880088.xyz
