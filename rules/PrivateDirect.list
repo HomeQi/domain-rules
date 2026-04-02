@@ -667,6 +667,14 @@ DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,qingwapt.com
 
+# 苹果Captive Portal 互联网检测
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,apple.com
+# 可选：苹果系统服务
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,akamaiedge.net
+
 # 自定义特殊直连规则
 DOMAIN-SUFFIX,106071.xyz
 DOMAIN-SUFFIX,alidns.com
